@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anshulhub](https://github.com/anshulhub)
 
-- 📫 How to reach me **anshulgarg712000@gmail.com**
+- 📫 How to reach me: **anshulgarg712000@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anshulgarg712000/](https://www.linkedin.com/in/anshulgarg712000/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/anshulgarg712000/](https://www.linkedin.com/in/anshulgarg712000/)
 
-- ⚡ Fun fact **Can solve rubik's cube under a minute**
+- ⚡ Fun fact: **Can solve rubik's cube under a minute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
