@@ -18,8 +18,8 @@
 <a href="https://github.com/anshulhub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="anshulhub" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anshulgarg712000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anshulgarg712000" height="30" width="40" /></a>
 <a href="https://fb.com/anshulgarg712000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anshulgarg712000" height="30" width="40" /></a>
- <a href="https://instagram.com/anshul895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" alt="anshul895" height="30" width="40" /></a>
-<a href="https://dev.to/anshulhub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anshulhub" height="30" width="40" /></a>
+ <a href="https://dev.to/anshulhub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" alt="anshul895" height="30" width="40" /></a>
+<a href="https://instagram.com/anshul895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anshulhub" height="30" width="40" /></a>
 
 </p>
 
